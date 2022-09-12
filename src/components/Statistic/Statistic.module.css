@@ -1,0 +1,20 @@
+.statList {
+  display: flex;
+}
+.title {
+  text-align: center;
+  padding: 25px;
+
+  background-color: rgb(255, 255, 128);
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  padding: 15px;
+  width: 60px;
+}
+.label {
+  margin-bottom: 10px;
+}
